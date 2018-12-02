@@ -1,7 +1,9 @@
+[Adblock Plus 2.0]
 !--- Anti Cookies Stuffing---!
 !--- LICENSE : MIT https://mit-license.org ---!
 !--- Edit Date:2018/12/2 ---!
 !--- Version : 0.01 ---!
+!--- Project URL: https://github.com/1779729350/AntiCookieStuffing-VPS ---!
 
 ||www.vultr.com/?ref=*
 ||*^aff.php^aff=*
