@@ -18,13 +18,14 @@ There is more information about it: [Wikipedia](https://en.wikipedia.org/wiki/Co
 Our rules only block malign Affiliate links，we will not block the Affiliate link that the user clicks.
 
 ## How to Anti Cookie Stuffing?
-chick the link to subscribe to the ABP rules：[ABP  Rule for Anti Cookie Stuffing](abp:subscribe?location=https://github.com/1779729350/AntiCookieStuffing-VPS/Anti_Cookie_Stuffing.txt )
-1. Copy the link below  
-    `https://github.com/1779729350/AntiCookieStuffing-VPS/blob/master/Anti_Cookie_Stuffing.txt`
+1. Chick the link below and copy all content
+    https://raw.github.com/1779729350/AntiCookieStuffing-VPS/master/Anti_Cookie_Stuffing.txt
 2. Open the settings of ADBLOCKS PLUS - Advanced
-3. Click 'Add a new filter list' button
-4. Paste the link you just copied and confirm
-Your ABP will automatically update this rule
+3. Click 'Edit filter rules' button
+4. Paste you just copied and save
+You can manually update it every month.
+Just replace your custom rules from this project.  
+**Be careful to back up your personal rules!**
 
 ## Notice
 By using this rule, you agree to bear all consequences of using this rule.  
