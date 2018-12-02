@@ -1,0 +1,10 @@
+!--- Anti Cookies Stuffing---!
+!--- LICENSE : MIT https://mit-license.org ---!
+!--- Edit Date:2018/12/2 ---!
+!--- Version : 0.01 ---!
+
+||www.vultr.com/?ref=*
+||*^aff.php^aff=*
+||cloud.tencent.com/redirect.php?redirect=*
+||promotion.aliyun.com/*/*.html?userCode=*
+||*/?affid=*
