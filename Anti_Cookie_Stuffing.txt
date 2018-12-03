@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 !--- Anti Cookies Stuffing---!
 !--- LICENSE : MIT https://mit-license.org ---!
 !--- Edit Date:2018/12/2 ---!
