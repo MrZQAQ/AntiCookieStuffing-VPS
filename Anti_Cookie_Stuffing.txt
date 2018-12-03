@@ -1,11 +1,21 @@
 !--- Anti Cookies Stuffing---!
 !--- LICENSE : MIT https://mit-license.org ---!
-!--- Edit Date:2018/12/2 ---!
-!--- Version : 0.01 ---!
+!--- Edit Date:2018/12/3 14：13 ---!
+!--- Version : 0.02 ---!
 !--- Project URL: https://github.com/1779729350/AntiCookieStuffing-VPS ---!
 
 ||www.vultr.com/?ref=*
 ||*^aff.php^aff=*
-||cloud.tencent.com/redirect.php?redirect=*
+||cloud.tencent.com/*cps_key=*
 ||promotion.aliyun.com/*/*.html?userCode=*
+||common-buy.aliyun.com/?commodityCode=*&userCode=*
 ||*/?affid=*
+||www.linode.com/?r=*
+||www.digitalocean.com/?refcode=*
+||*^page.aspx?c=referral&u=*
+||www.namecheap.com/?*utm_medium=Affiliate*
+||*.arebz.com/2018.aspx?link=*
+||www.aulerion.com/aff/*
+||*.cloudcone.com/*?ref=*
+||hosthatch.com/a?id=*
+||my.hxkvm.com/flag/*
