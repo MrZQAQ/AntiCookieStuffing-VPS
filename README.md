@@ -33,12 +33,12 @@ Just replace your custom rules from this project.
 By using this rule, you agree to bear all consequences of using this rule.  
 This project does not assume any joint responsibility.
 
-# 反CS-VPS
-这是一个适用于ABP的规则，用于防止CS（包含瓦工、virmach等热门aff主机商）  
-这个规则当前仅包含常见的主机商。对于一些常用模板做了通配处理，但不保证效果
+# AntiCookieStuffing-VPS
+这是一个适用于ABP的规则，用于防止一些人的cookie stuffing行为（包含瓦工、virmach等热门aff主机商）  
+这个规则当前仅包含常见的主机商。对于一些常用模板做了通配处理
 
 ## 什么是CS？
-CS（cookie stuffing，cookie注入）是利用技术手段强制注入cookie，在用户不知情的情况下贴上推广标签  
+CS（cookie stuffing，cookie注入）是利用技术手段强制注入cookie，在用户不知情的情况下贴上推广标记，不仅侵犯了访问者的知情权，还违背了多数商家的推广协议  
 
 ## 使用方法
 1. 点击下面的链接并将所有的文本复制  
