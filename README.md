@@ -33,7 +33,7 @@ Just replace your custom rules from this project.
 By using this rule, you agree to bear all consequences of using this rule.  
 This project does not assume any joint responsibility.
 
-# AntiCookieStuffing-VPS
+# AntiCookieStuffing-VPS项目简介
 这是一个适用于ABP的规则，用于防止一些人的cookie stuffing行为（包含瓦工、virmach等热门aff主机商）  
 这个规则当前仅包含常见的主机商。对于一些常用模板做了通配处理
 
