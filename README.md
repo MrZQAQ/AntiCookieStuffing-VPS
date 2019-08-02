@@ -23,8 +23,7 @@ Our rules only block malign Affiliate links，we will not block the Affiliate li
 1. Click the link below and copy all content  
     https://raw.github.com/1779729350/AntiCookieStuffing-VPS/master/Anti_Cookie_Stuffing.txt
 2. Open the settings of ADBLOCKS PLUS - Advanced
-3. Click 'Edit filter rules' button
-4. Paste you just copied and save  
+3. Paste you just copied to 'my filter list'  
 You can manually update it every month.
 Just replace your custom rules from this project.  
 **Be careful to back up your personal rules!**
@@ -44,8 +43,7 @@ CS（cookie stuffing，cookie注入）是利用技术手段强制注入cookie，
 1. 点击下面的链接并将所有的文本复制  
     https://raw.github.com/1779729350/AntiCookieStuffing-VPS/master/Anti_Cookie_Stuffing.txt
 2. 打开ADBLOCKS PLUS设置 - 高级
-3. 点击右下角的‘编辑过滤规则’
-4. 粘贴刚才复制的文本并点击保存  
+3. 粘贴刚才复制的文本到我的过滤列表  
 你可以定期来看看有没有更新规则  
 **注意备份您的个人规则!**  
 
